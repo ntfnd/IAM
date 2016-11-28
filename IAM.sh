@@ -78,7 +78,7 @@ echo -e $red
 echo "      IAM (Interface Add Monitor) is an open"
 echo "      source program which is using to make a network card"
 echo "      to run mode station and monitor easily and quickly.
-             Created by ntfnd|ntfnd@gmail.com"
+             Created by ntfnd"
 }
 
 #################################################
