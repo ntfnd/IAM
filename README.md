@@ -8,5 +8,6 @@ IAM (Interface Add Monitor) is an bash script which is using to add dual mode : 
 * sudo ./IAM.sh
 
 # Thanks
+____>BlackCat
 
 ---> ntfnd
